@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Mysql, C++ and Android Development**
+- 🌱 I’m currently learning **Android Development**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Alauddinbukhari](https://linktr.ee/Alauddinbukhari)
 
