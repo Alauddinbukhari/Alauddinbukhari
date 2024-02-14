@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **syedalauddin.b@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny 😅**
+- ⚡ Fun fact **I look normal but I'm not**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
