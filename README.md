@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning and specializing in **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Alauddinbukhari](https://linktr.ee/Alauddinbukhari)
 
-- 💬 Ask me about **Pyhton, Java and Machine Learning**
+
+- 💬 Ask me about **Pyhton and Cybersecurity**
 
 - 📫 How to reach me **syedalauddin.b@gmail.com**
 
-- ⚡ Fun fact **I look normal but I'm not**
+- ⚡ Fun fact **I am Introverted**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
