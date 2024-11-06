@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning and specializing in **CyberSecurity**
+- 🌱 I’m currently learning and specializing in **Full-Stack Development**
 
 
 
-- 💬 Ask me about **Pyhton and Cybersecurity**
+- 💬 Ask me about **Pyhton, Web Development and Cybersecurity**
 
 - 📫 How to reach me **syedalauddin.b@gmail.com**
 
-- ⚡ Fun fact **I am Introverted**
+- ⚡ Fun fact **I Watch a lot of horror movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
