@@ -1,21 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm Alauddin Bukhari</h1>
-<h3 align="center">A curious Individual</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alauddinbukhari&label=Profile%20views&color=0e75b6&style=flat" alt="alauddinbukhari" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning and specializing in **Full-Stack Development**
 
-
-
-- 💬 Ask me about **Pyhton, Web Development and Cybersecurity**
 
 - 📫 How to reach me **syedalauddin.b@gmail.com**
 
-- ⚡ Fun fact **I Watch a lot of horror movies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
