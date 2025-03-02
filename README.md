@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋/h1>
+<h1 align="center">Hi 👋</h1>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
