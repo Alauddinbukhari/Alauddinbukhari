@@ -9,7 +9,7 @@
 
 
 
-- 📫 How to reach me **syedalauddin.b@gmail.com**
+- 📫 How to reach me **syedalauddin.ca@outlook.com**
 
 
 <h3 align="left">Connect with me:</h3>
