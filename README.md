@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alauddinbukhari&label=Profile%20views&color=0e75b6&style=flat" alt="alauddinbukhari" /> </p>
 
 
-- 📫 How to reach me **syedalauddin.sd@gmail.com**
+- 📫 How to reach me **syedalauddin.cd@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
